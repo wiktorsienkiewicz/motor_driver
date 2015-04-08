@@ -1,0 +1,5 @@
+*.s#*
+*.pdf
+*.b#*
+*.zip
+/eagle.epf
