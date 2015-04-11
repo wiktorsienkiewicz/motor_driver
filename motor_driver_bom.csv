@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"7";"";"BC849SMD";"SOT23-BEC";"Q1, Q2, Q3, Q4, Q5, Q6, Q11";"NPN Transistor";"";
+"7";"";"IRLML2803";"MICRO3";"T1, T2, T3, T4, T5, T6, T7";"HEXFET Power N-Channel MOSFET";"";
+"4";"";"IRLML5203";"MICRO3";"Q7, Q8, Q9, Q10";"HEXFET P-Channel Power MOSFET";"";
+"1";"";"LEDCHIPLED_0603";"CHIPLED_0603";"LED1";"LED";"";
+"1";"";"MA03-2";"MA03-2";"SV1";"PIN HEADER";"";
+"1";"";"MA06-1";"MA06-1";"SV2";"PIN HEADER";"";
+"1";"10";"R-EU_R0603";"R0603";"R16";"RESISTOR, European symbol";"";
+"4";"10";"R-EU_R2512";"R2512";"R11, R12, R13, R14";"RESISTOR, European symbol";"";
+"7";"100k";"R-EU_R0603";"R0603";"R5, R6, R7, R8, R9, R10, R15";"RESISTOR, European symbol";"";
+"4";"10k";"R-EU_R0603";"R0603";"R1, R2, R3, R4";"RESISTOR, European symbol";"";
+"1";"1k";"R-EU_R0603";"R0603";"R17";"RESISTOR, European symbol";"";
+"1";"22-23-2021";"22-23-2021";"22-23-2021";"X1";".100" (2.54mm) Center Header - 2 Pin";"";
+"1";"22u";"CPOL-EU150CLZ-1014";"150CLZ-1014";"C5";"POLARIZED CAPACITOR, European symbol";"";
+"3";"2u2";"C-EU025-025X050";"C025-025X050";"C1, C2, C3";"CAPACITOR, European symbol";"";
+"1";"470n";"C-EUC0805";"C0805";"C4";"CAPACITOR, European symbol";"";
+"1";"LM2936DT-5.0";"LM2936DT-5.0";"TO252";"IC1";"Ultra-Low Quiescent Current LDO Voltage Regulator";"";
